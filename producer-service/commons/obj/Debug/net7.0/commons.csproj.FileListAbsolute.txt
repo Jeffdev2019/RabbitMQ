@@ -1,0 +1,12 @@
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\bin\Debug\net7.0\commons.deps.json
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\bin\Debug\net7.0\commons.dll
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\bin\Debug\net7.0\commons.pdb
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.csproj.AssemblyReference.cache
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.AssemblyInfoInputs.cache
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.AssemblyInfo.cs
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.dll
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\refint\commons.dll
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\commons.pdb
+C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\obj\Debug\net7.0\ref\commons.dll

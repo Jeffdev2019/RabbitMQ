@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0AYzu0Qf8V992f2HuGHGtetWST5qNUJjM5clSzjKytk=",
+  "Source": "producer-service",
+  "BasePath": "_content/producer-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NZjj/THSPrtMTbpq4YjnUmymEdOwo+4RWHkmq884eb/ik73gYHNI5OPgTZNB0zQTc9V/3KO6dJmPQqZFBhHog==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\consumer-service\\consumer-service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
