@@ -189,11 +189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\consumer-service\\consumer-service.csproj",
+      "projectUniqueName": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\consumer-service\\consumer-service.csproj",
       "projectName": "consumer-service",
-      "projectPath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\consumer-service\\consumer-service.csproj",
+      "projectPath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\consumer-service\\consumer-service.csproj",
       "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\consumer-service\\obj\\",
+      "outputPath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\consumer-service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -217,8 +217,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj": {
-              "projectPath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj"
+            "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj": {
+              "projectPath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj"
             }
           }
         }

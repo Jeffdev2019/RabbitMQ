@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7Qy24RvMtwjKzryFzYodDN0wNx3fY83sRGQ8wUSjPyZ9aY6nUves8f/NfT3iLl6FmSwfhWO+DgbyzuBO7Lp3A==",
+  "dgSpecHash": "82VAdCwvQ0XJVrPRNElCu3ieRma9EYzDtyHz3xRKAUZMLgQCX7h7fTK6lRWQhRiJ7tkz2ZHq9tW9AprAH/QlIw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj",
+  "projectFilePath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

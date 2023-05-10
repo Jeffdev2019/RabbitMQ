@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj": {}
+    "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj": {
+    "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj",
+        "projectUniqueName": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj",
         "projectName": "commons",
-        "projectPath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\commons.csproj",
+        "projectPath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\commons.csproj",
         "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\commons\\obj\\",
+        "outputPath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\commons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

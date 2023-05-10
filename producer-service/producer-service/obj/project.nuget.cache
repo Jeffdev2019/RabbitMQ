@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qOZgRrtZABNpbi19nofT/fS6r+NkKtQTNzjCPGznGClADdE9NlAZKtMvCgbtBdokp+i6/f+Pr1pEdrGGxdyfeg==",
+  "dgSpecHash": "qRZ+bohKE9npul2O4rWb6bldjzkrNPxA+IhnvNhDj0SLQrQDwkgI7uX+ZtnM/YvaHv/YTVBV9qu8pKSNJeHwCQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Projetos\\Dominando o ASP.NET MVC Core\\producer-service\\producer-service\\producer-service.csproj",
+  "projectFilePath": "C:\\Workspace\\Projetos\\RabbitMQ .NET\\RabbitMQ\\producer-service\\producer-service\\producer-service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

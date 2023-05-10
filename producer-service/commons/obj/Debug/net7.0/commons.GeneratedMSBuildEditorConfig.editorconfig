@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = commons
-build_property.ProjectDir = C:\Workspace\Projetos\Dominando o ASP.NET MVC Core\producer-service\commons\
+build_property.ProjectDir = C:\Workspace\Projetos\RabbitMQ .NET\RabbitMQ\producer-service\commons\
